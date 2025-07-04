@@ -1,0 +1,6 @@
+torch==2.7.1
+numpy
+tiktoken
+rich
+onnx
+onnxscript

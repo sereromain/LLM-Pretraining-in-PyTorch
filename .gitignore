@@ -1,0 +1,7 @@
+__pycache__
+data/input.txt
+data/train.bin
+data/val.bin
+llm.onnx
+llm.pt
+history.csv
